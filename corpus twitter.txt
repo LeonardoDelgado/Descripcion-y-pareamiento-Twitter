@@ -1,0 +1,20 @@
+A	#FelizSábado A partir de las 10:00 horas se repartirán placas reflejantes para bicicleta. Se dará una por persona quien deberá presentar como requisito obligatorio su bici #DíaMundialSinAuto. Consulta los puntos de distribución
+A	Celebremos el #DíaMundialSinAuto utilizando la bicicleta, el transporte público o caminando, y así ayudamos a nuestro planeta Tierra.
+A	Caminando, en bici o transporte público, celebra el #DíaMundialSinAuto y fomenta la movilidad urbana alternativa y sustentable.
+A	La movilidad en las ciudades es como la circulación en nuestro cuerpo: hay que estimularla. Los gobiernos tienen que invertir en transporte público, incentivar el uso de la bicicleta; las personas tenemos que cambiar hábitos. #DiaMundialSinAuto
+B	El #OCR o reconocimiento óptico de caracteres nos ayuda a reconocer texto. Con #OpenCV y #Python podemos llegar a hacer un proyecto para que reconozca cualquier texto en una imagen. Aquí el tutorial completo
+B	OCR de textos en griego antiguo (OCR = Reconocimiento Óptico de Caracteres). Convierte en un archivo de texto el texto contenido en imágenes escaneadas etc. Funciona en Windows, Linux y Android, tanto en pcs como en móviles.
+B	También descargar el OCR (texto plano obtenido con reconocimiento óptico de caracteres) pero su calidad depende de condiciones del documento
+B	jala bien en general, ponía el parámetro tif y 300 dpi para trabajar después el reconocimiento óptico de caracteres (OCR) para poder explorar dentro del libro, voy a probar con una herramienta linuxera que se llama pdfsandwich
+C	La Cruzada de #ReforestaciónPuebla tiene como meta recuperar 125 hectáreas con la siembra de 50 mil árboles, en 21 puntos diferentes distribuidos en la zona metropolitana.
+C	Con un total de 50,000 árboles plantados en 21 puntos diferentes del estado, se llevó a cabo la Cruzada de #ReforestaciónPuebla a la que se sumó esta dependencia.
+C	Estimada señora pseudo ambientalista: La invitó a checar este hashtag: #ReforestaciónPuebla No la veo a usted haciendo una brigada para reforestar con más de 50,000 plantas. ¿O si? Mejor haga algo y deje de apresurarse a escribir cosas ardillas.
+C	¡Únete! a la Cruzada #ReforestaciónPuebla. El sábado 22 de septiembre con el objetivo de reforestar 125 hectáreas estaremos en diversas partes de la ciudad de Puebla sembrando árboles.
+D	#AvisoMetro A pesar de afectación en Av. Oceanía por socavón e inundaciones, Línea B del Metro funciona sin afectaciones y como alternativa de movilidad. La marcha de trenes es continua.
+D	Tu bienestar es lo más importante para nosotros, apoyamos a la ciudadanía ante la intensa lluvia que se presentó en Oceanía y alrededores. Toma en cuenta las alternativas viales e indicaciones de tu policía.
+D	Así en estos momentos el cruce de #Oceanía y Circuito Interior por la caída de lluvia y granizo, pasos a desnivel y accesos del Metro inundados, tránsito detenido desde la Av. 602 y 608. Eviten en definitiva la zona
+D	Se forma socavón cerca del Metro Oceanía al oriente de la Ciudad de México. Un trailer ha caído en su interior, video @graciel61062334
+E	#SigueEsteHilo El café neoyorquino Central Perk fue, sin duda alguna, el escenario insignia de #Friends. Allí se reunían Rachel, Monica, Chandler, Phoebe, Joey, Ross (y otros invitados) para conversar y pasar el rato
+E	#SigueEsteHilo La primera vez que Chandler le dice te amo a Monica en #Friends fue cuando ella se pone una máscara de pollo con gafas y baila para contentarlo porque habían peleado ? 
+E	Hoy hace 24 años, 6 amigos se reunieron en un café a contarnos sus vidas, sus amores y desamores, sus aventuras, sus tragedias y, sobre todo, sus risas. Hoy hace 24 años conocimos a Rachel, Ross, Mónica, Chandler, Phoebe y Joey y jamás los olvidamos. 
+E	Hoy hace 24 años una chica vestida de novia entraba nerviosa y perdida en una cafetería de Nueva York, dando comienzo así a la mejor sitcom de la historia de la TV #Friends 

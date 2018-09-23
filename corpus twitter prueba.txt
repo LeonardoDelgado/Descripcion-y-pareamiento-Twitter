@@ -1,0 +1,5 @@
+A	Hoy se conmemora el #DíaMundialSinAuto, iniciativa que busca concientizar sobre el uso excesivo del automóvil al tiempo que promueve el uso de la bicicleta o el transporte público como una alternativa de movilidad.
+B	DFIR:OCYARA. El módulo OCyara realiza OCR (reconocimiento óptico de caracteres) en los archivos de imagen y los escanea en busca de coincidencias con las reglas de Yara. OCyara también puede procesar imágenes incrustadas en archivos PDF.
+C	Chicos y grandes participan en la #ReforestaciónPuebla que se realiza en los parques de #CiudadModelo. Se sembrarán más de 3 mil árboles
+D	#Ahora Ante la intensa precipitación pluvial en Oceanía y Peñón de los Baños, trabajamos para generar movilidad en la zona; apoyamos a peatones y automovilistas.
+E	#SigueEsteHilo ?? ¡Feliz aniversario, #Friends! Hace 24 años se estrenó el primer capítulo de la mejor serie de comedia de los años 90 en Estados Unidos. ?? ¿Qué tanto sabe usted de este TV show? Aquí algunos datos curiosos ?
